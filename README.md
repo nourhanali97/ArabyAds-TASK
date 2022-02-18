@@ -13,7 +13,7 @@ To download this project run on your terminal
 git clone https://github.com/nourhanali97/ArabyAds-TASK.git
 ```
 ```bash
-git git checkout master
+git checkout master
 ```
 
 ##RUN APPLICATION STEPS
