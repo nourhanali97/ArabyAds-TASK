@@ -16,7 +16,7 @@ git clone https://github.com/nourhanali97/ArabyAds-TASK.git
 git checkout master
 ```
 
-##RUN APPLICATION STEPS
+## RUN APPLICATION STEPS
 ## Run all test cases
 
 To download this project run on your terminal
